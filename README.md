@@ -4,5 +4,5 @@
 
 ## Find me online
 
-🖥 (ngw.dev)[https://ngw.dev/]
-📩 (contact@ngw.dev)[mailto:contact@ngw.dev]
+🖥 https://ngw.dev/
+📩 contact@ngw.dev
