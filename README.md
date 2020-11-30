@@ -8,5 +8,6 @@ I'm a full-stack web developer with over 10 years of experience building beautif
 
 <img src="mushroom.png" align="left" height="50">
 
-- Portfolio: https://ngw.dev/
-- Email me: contact@ngw.dev
+Portfolio: https://ngw.dev/
+
+Email me: contact@ngw.dev
