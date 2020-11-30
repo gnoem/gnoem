@@ -10,7 +10,7 @@ I'm a full-stack web developer with over 10 years of experience building beautif
 - I was once on German Nickelodeon
 - I'm really into ancient life and have a sweet trilobite collection
 
-## Find me online 
+## Find me online 🔮
 
 <img src="mushroom.png" align="left" height="50" alt="mushroom icon">
 
